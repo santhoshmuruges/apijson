@@ -1,0 +1,36 @@
+{
+    "store": [
+        {
+            "id": 1,
+            "heading": "Sign Up and Get ₹ 500",
+            "paragraph": "AJIO 500 Coupon Code: Sign Up And Get RS, 500 In Ajio Wallet",
+            "price": "₹8",
+            "ctype": "cashback",
+            "bg": "#FC7474"
+        },
+        {
+            "id": 2,
+            "heading": "Upto 60% Off on ₹ 3290",
+            "paragraph": "Upto 60% off On Orders Of RS. 3290 & Above in all category",
+            "price": "60%",
+            "ctype": "off",
+            "bg": "#01CBA5"
+        },
+        {
+            "id": 3,
+            "heading": "Sign Up and Get ₹ 183",
+            "paragraph": "AJIO 183 Coupon Code: Sign Up And Get RS, 183 In Ajio Wallet",
+            "price": "₹183",
+            "ctype": "cashback",
+            "bg": "#FC7474"
+        },
+        {
+            "id": 4,
+            "heading": "Min 70% Off",
+            "paragraph": "Min 70% Off on Select Products in all Category",
+            "price": "70%",
+            "ctype": "off",
+            "bg": "#FFBA39"
+        }
+    ]
+}
